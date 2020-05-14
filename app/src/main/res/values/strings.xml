@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserAppRoom</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="add_user">Add user</string>
+    <string name="arber_fazlija">Arber Fazlija</string>
+    <string name="_1">1</string>
+    <string name="edit_user">Edit User</string>
+</resources>
