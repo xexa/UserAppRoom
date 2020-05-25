@@ -1,4 +1,4 @@
 # UserAppRoom
-User app with room database and MVVM
+User app with MVVM
 
 You can add user to a local database and edit them.
